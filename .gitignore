@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Node (only if you later add a build pipeline)
+node_modules/
+npm-debug.log*
+
+# Obsidian test vault (do not commit personal notes)
+test-vault/
