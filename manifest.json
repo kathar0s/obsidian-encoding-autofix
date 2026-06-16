@@ -3,7 +3,7 @@
   "name": "Encoding Auto-Fix",
   "version": "1.1.0",
   "minAppVersion": "1.0.0",
-  "description": "Detects non-UTF-8 files (UTF-16 LE/BE, UTF-8 BOM, EUC-KR/CP949) on creation and rewrites them as clean UTF-8, preventing Korean/CJK text corruption in Obsidian. Includes a manual convert command.",
+  "description": "Detects non-UTF-8 files (UTF-16 LE/BE, UTF-8 BOM, EUC-KR/CP949) on creation and rewrites them as clean UTF-8, preventing Korean/CJK text corruption. Includes a manual convert command.",
   "author": "kathar0s",
   "authorUrl": "https://github.com/kathar0s",
   "isDesktopOnly": false
